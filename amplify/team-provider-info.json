@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-elascriptreact-dev-182412-authRole",
+            "UnauthRoleArn": "arn:aws:iam::937805476102:role/amplify-elascriptreact-dev-182412-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::937805476102:role/amplify-elascriptreact-dev-182412-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-elascriptreact-dev-182412-deployment",
+            "UnauthRoleName": "amplify-elascriptreact-dev-182412-unauthRole",
+            "StackName": "amplify-elascriptreact-dev-182412",
+            "StackId": "arn:aws:cloudformation:us-east-1:937805476102:stack/amplify-elascriptreact-dev-182412/95eee730-c557-11ea-9df3-0ea20f614b35",
+            "AmplifyAppId": "d2g778esend8oh"
+        }
+    }
+}
